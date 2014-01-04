@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/titles">
+        <file>coin.png</file>
+        <file>question.png</file>
+    </qresource>
+</RCC>

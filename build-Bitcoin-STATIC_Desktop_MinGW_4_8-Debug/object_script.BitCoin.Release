@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\network.o
+./release\miners.o
+./release\calcwindow.o
+./release\help.o
+./release\bitcoin_plugin_import.o
+./release\moc_mainwindow.o
+./release\moc_network.o
+./release\moc_miners.o
+./release\moc_calcwindow.o
+./release\moc_help.o
+);

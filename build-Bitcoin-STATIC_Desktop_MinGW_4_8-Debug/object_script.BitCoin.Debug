@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\network.o
+./debug\miners.o
+./debug\calcwindow.o
+./debug\help.o
+./debug\bitcoin_plugin_import.o
+./debug\moc_mainwindow.o
+./debug\moc_network.o
+./debug\moc_miners.o
+./debug\moc_calcwindow.o
+./debug\moc_help.o
+);
